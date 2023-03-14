@@ -1,0 +1,19 @@
+{
+  "name": "vue-mapbox-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@studiometa/vue-mapbox-gl": "^2.0.4",
+    "mapbox-gl": "^2.13.0",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.4"
+  }
+}
